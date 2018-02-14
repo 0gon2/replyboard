@@ -45,8 +45,7 @@
 	<p class="w3-left" style="padding-left: 30px;"></p>
 	<div class="w3-container">
 		<span class="w3-center  w3-large">
-			<h3><%=boardid%>(전체 글:<%=count%>)
-			</h3>
+			<h3><%=boardid%>(전체 글:<%=count%>)</h3>
 		</span>
 		<p class="w3-right w3-padding-right-large">
 			<a href="writeForm.jsp">글쓰기</a>
